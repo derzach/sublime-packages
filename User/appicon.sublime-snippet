@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<link rel="apple-touch-icon" sizes="${1:this}x${1:this}" href="img/icons/Appicon${1:this}x${1:this}.png">
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>appicon</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+<div class="flexslider">
+	<ul class="slides">
+		<li><img src="http://lorempixel.com/640/480/city/1/" alt="header"></li>
+		<li><img src="http://lorempixel.com/640/480/city/2/" alt="header"></li>
+		<li><img src="http://lorempixel.com/640/480/city/3/" alt="header"></li>
+		<li><img src="http://lorempixel.com/640/480/city/4/" alt="header"></li>
+		<li><img src="http://lorempixel.com/640/480/city/5/" alt="header"></li>
+	</ul>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>flexslider</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

@@ -1,0 +1,34 @@
+{
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"AutoFileName",
+		"Bootstrap 3 Snippets",
+		"CoffeeScript",
+		"ColorPick",
+		"CSScomb",
+		"Emmet",
+		"Gist",
+		"Git",
+		"GitGutter",
+		"HTML Boilerplate",
+		"HTML5",
+		"Laravel 4 Snippets",
+		"Laravel Blade Highlighter",
+		"Laravel Generator",
+		"LESS",
+		"LiveReload",
+		"Package Control",
+		"Phpcs",
+		"Quick Look",
+		"Sass",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"Spotify Control",
+		"SublimeCodeIntel",
+		"Theme - Spacegray",
+		"TidyHTML5",
+		"TypoScript"
+	]
+}
